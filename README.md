@@ -13,9 +13,9 @@ The app currently is a small prototype built on the crux of the recommendation s
 
 The application is developed in  Android Studio, and coded in Java. Extensive use of The Movie Database API  done to get details of the movie in different parts of the app. The recommendation system is a Content-based filtering engine, that predicts and suggests users based on its users’ history. Techstack for the recommendation system is as below.
 
-a) Python – 3.x
-b) Pandas – 1.2.4
-c) Scikit-learn – 0.24.1
+a) Python – 3.x \n
+b) Pandas – 1.2.4 \n
+c) Scikit-learn – 0.24.1 \n
 
 [This flask API was deployed on azure with the following link.](https://recommenderml.azurewebsites.net/predict)
   
@@ -81,7 +81,7 @@ To install the above libraries on your machine, use the following command.
 
  Hi, I am Kavita Nampoothiri, an avid tech enthusiast with an ever-ready attitude to learning everything and anything. I rest my interests in app development and providing effective solutions to cater best to the demands of the problem. This project served as a great opportunity to explore a new sector of the tech world, thereby pushing my horizons to grasp the enormous knowledge that came with it. Through this project, I am fueled even more to find and get better at my current skills and also undertake new skills under my belt.  This opportunity has instilled the concept of “timely deliverable” while maintaining the quality of the product intact. In case of any queries, do reach out to my socials mentioned below.
  
-[LinkedIn](https://www.linkedin.com/in/kavita-nampoothiri-215441205/)
+[LinkedIn](https://www.linkedin.com/in/kavita-nampoothiri-215441205/) \n
 [Github](https://github.com/Kavita1013)
 
 
