@@ -7,12 +7,12 @@
 
 In this fast-paced life, where cars are about to fly and robots are ready to replace humans, spending time on little things can put you behind in this rat race of life!!. Don't worry, Movie Studio brings you movie suggestions on your tips so that you don’t lag behind in finding the “correct” fit for the mood you crave.
   
-  ####a) What this app brings to the table?
+  #### a) What this app brings to the table?
   
 The app currently is a small prototype built on the crux of the recommendation system. It delivers its users top-rated movies at par with the current trend of the world, along with helping them choose the movie to relish their entertainment buds to the best.
   
   
-  ####b) Technologies used
+  #### b) Technologies used
 
 The application is developed in  Android Studio, and coded in Java. Extensive use of The Movie Database API  done to get details of the movie in different parts of the app. The recommendation system is a Content-based filtering engine, that predicts and suggests users based on its users’ history. Techstack for the recommendation system is as below.
 
