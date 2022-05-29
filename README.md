@@ -1,5 +1,8 @@
 # Movie_Studio
 
+![Screenshot 2022-05-25 120719](https://user-images.githubusercontent.com/78211425/170854925-6ab12fd5-09d6-4876-9966-05e152c584ff.jpg)
+
+
 ## About :
 
 In this fast-paced life, where cars are about to fly and robots are ready to replace humans, spending time on little things can put you behind in this rat race of life!!. Don't worry, Movie Studio brings you movie suggestions on your tips so that you don’t lag behind in finding the “correct” fit for the mood you crave.
@@ -19,6 +22,8 @@ c) Scikit-learn – 0.24.1 <br/>
 
 [This flask API was deployed on azure with the following link.](https://recommenderml.azurewebsites.net/predict)
   
+![software](https://user-images.githubusercontent.com/78211425/170855309-95edbcaa-58c7-470b-ae02-ac2cdf3f1ca2.jpg)
+
   
   c) Challenges Faced 
   
