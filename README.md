@@ -4,18 +4,18 @@
 
 In this fast-paced life, where cars are about to fly and robots are ready to replace humans, spending time on little things can put you behind in this rat race of life!!. Don't worry, Movie Studio brings you movie suggestions on your tips so that you don’t lag behind in finding the “correct” fit for the mood you crave.
   
-  a) What this app brings to the table?
+  ####a) What this app brings to the table?
   
 The app currently is a small prototype built on the crux of the recommendation system. It delivers its users top-rated movies at par with the current trend of the world, along with helping them choose the movie to relish their entertainment buds to the best.
   
   
-  b) Technologies used
+  ####b) Technologies used
 
 The application is developed in  Android Studio, and coded in Java. Extensive use of The Movie Database API  done to get details of the movie in different parts of the app. The recommendation system is a Content-based filtering engine, that predicts and suggests users based on its users’ history. Techstack for the recommendation system is as below.
 
-a) Python – 3.x \n
-b) Pandas – 1.2.4 \n
-c) Scikit-learn – 0.24.1 \n
+a) Python – 3.x <br/>
+b) Pandas – 1.2.4 <br/>
+c) Scikit-learn – 0.24.1 <br/>
 
 [This flask API was deployed on azure with the following link.](https://recommenderml.azurewebsites.net/predict)
   
@@ -51,6 +51,7 @@ I tried going through related projects which revolve around the same theme, to r
 ## How to Install and Run the Project
 
 #### 1. For Android App:
+
 (i)   Clone the project onto your local machine either using Github or Android Studio.
 (ii)  Open the project on Android Studio.
 (iii) Connect your mobile device to your machine and turn on USB debugging.
@@ -71,6 +72,7 @@ To install the above libraries on your machine, use the following command.
 
 
 #### Project:
+
 1. Unzip the zip file.
 2. You will find CSV files put them in the main directory, and delete the rest of the folder.
 3. Run the flask app
@@ -81,7 +83,7 @@ To install the above libraries on your machine, use the following command.
 
  Hi, I am Kavita Nampoothiri, an avid tech enthusiast with an ever-ready attitude to learning everything and anything. I rest my interests in app development and providing effective solutions to cater best to the demands of the problem. This project served as a great opportunity to explore a new sector of the tech world, thereby pushing my horizons to grasp the enormous knowledge that came with it. Through this project, I am fueled even more to find and get better at my current skills and also undertake new skills under my belt.  This opportunity has instilled the concept of “timely deliverable” while maintaining the quality of the product intact. In case of any queries, do reach out to my socials mentioned below.
  
-[LinkedIn](https://www.linkedin.com/in/kavita-nampoothiri-215441205/) \n
+[LinkedIn](https://www.linkedin.com/in/kavita-nampoothiri-215441205/) <br/>
 [Github](https://github.com/Kavita1013)
 
 
