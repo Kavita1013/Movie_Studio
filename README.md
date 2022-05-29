@@ -1,6 +1,6 @@
 # Movie_Studio
 
-![Screenshot 2022-05-25 120719](https://user-images.githubusercontent.com/78211425/170854925-6ab12fd5-09d6-4876-9966-05e152c584ff.jpg)
+![Screenshot 2022-05-25 121119](https://user-images.githubusercontent.com/78211425/170855329-4b5813ca-667e-4357-987e-bb23801400f9.jpg)
 
 
 ## About :
